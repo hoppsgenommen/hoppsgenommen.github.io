@@ -1,5 +1,7 @@
 # Hoppsgenommen asa7be
 
+![Hoppsgenommen du lappen](./g102.png)
+
 Du kleiner Hägger bist hier gelandet, weil du wissen willst, wie man eine Seite in einem command hopps nimmt?
 
 Dann bist du hier genau richtig !
