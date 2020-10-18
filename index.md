@@ -1,7 +1,7 @@
 # Hoppsgenommen asa7be
 
 
-Du kleiner Hägger bist hier gelandet, weil du wissen willst, wie man eine Seite in einem command hopps nimmt?
+Du kleiner Hägger bist hier gelandet, weil du wissen willst, wie man eine Seite mit einer Zeile code nimmt?
 
 Dann bist du hier genau richtig !
 
