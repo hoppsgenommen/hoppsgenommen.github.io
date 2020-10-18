@@ -1,6 +1,6 @@
 # Hoppsgenommen asa7be
 
-![Hoppsgenommen du lappen](./g102.png)
+![Hoppsgenommen du lappen](https://github.com/hoppsgenommen/hoppsgenommen.github.io/raw/master/g102.png)
 
 Du kleiner Hägger bist hier gelandet, weil du wissen willst, wie man eine Seite in einem command hopps nimmt?
 
