@@ -20,7 +20,7 @@ Drücke auf `Run` und schau was passiert :D!
 
 ![Test run with the script and args set to ddostest.me](https://github.com/hoppsgenommen/hoppsgenommen.github.io/raw/master/ddostestme.png)
 
-PS.: Es kann unter Umständen etwas dauern, da [hey](https://github.com/rakyll/hey) 1000000 Requests
+PS.: Es kann unter Umständen etwas dauern, da [hey](https://github.com/rakyll/hey) für den Befehl oben 1000000 Requests
 gegen "https://deinezielurl.de" feuert.
 
 Enjoy.
