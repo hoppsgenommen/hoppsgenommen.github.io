@@ -1,6 +1,5 @@
 # Hoppsgenommen asa7be
 
-![Hoppsgenommen du lappen](https://github.com/hoppsgenommen/hoppsgenommen.github.io/raw/master/g102.png)
 
 Du kleiner Hägger bist hier gelandet, weil du wissen willst, wie man eine Seite in einem command hopps nimmt?
 
@@ -20,3 +19,7 @@ Es kann unter Umständen etwas dauern, da [hey](https://github.com/rakyll/hey) 1
 gegen "https://deinezielurl.de" feuert.
 
 Enjoy.
+
+Proudly presented by Hoppsgenommen.de:
+
+![Hoppsgenommen du lappen](https://github.com/hoppsgenommen/hoppsgenommen.github.io/raw/master/g102.png)
